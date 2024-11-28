@@ -1,0 +1,7 @@
+print("Chương trình ngày cưới")
+n=int(input("nhập ngày iu: "))
+if n==3011:
+    print("mật khẩu chính xác rùi")
+    print("anh yêu em nhiều lắm, xin lỗi vì đã làm bé yêu buồn, Moaaaaaaaaa!!")
+if n!=3011:
+    print("mật khẩu sai rùi, ngày ta yêu nhau á bé")
